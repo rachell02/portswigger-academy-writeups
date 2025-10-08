@@ -10,7 +10,7 @@
    <img width="846" height="103" alt="image" src="https://github.com/user-attachments/assets/fd3341ed-8efe-40f0-9e30-50f315e23451" />
    
 5. Delete Carlos' account.
-   <img width="321" height="199" alt="image" src="https://github.com/user-attachments/assets/c9fc24ff-4677-4ee9-9178-7d34811887db" />
+   <div> <img width="321" height="199" alt="image" src="https://github.com/user-attachments/assets/c9fc24ff-4677-4ee9-9178-7d34811887db" />
 
 
 ## Why this happened:
