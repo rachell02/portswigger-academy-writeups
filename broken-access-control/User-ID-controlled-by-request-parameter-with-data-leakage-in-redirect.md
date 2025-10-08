@@ -10,7 +10,7 @@
 
 7. Go to Repeater tab and change the "id" parameter to carlos.
 8. On the Response section, search for 'api key'.
-   <img width="758" height="539" alt="image" src="https://github.com/user-attachments/assets/3519f4f2-aa79-4210-a79f-4dacfa5cad55" />
+   <div></div> <img width="758" height="539" alt="image" src="https://github.com/user-attachments/assets/3519f4f2-aa79-4210-a79f-4dacfa5cad55" />
 
 10. Submit the API key.
 
