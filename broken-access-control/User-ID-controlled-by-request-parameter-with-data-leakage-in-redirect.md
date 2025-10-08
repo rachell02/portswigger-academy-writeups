@@ -6,7 +6,7 @@
 3. Open Burpsuite and go to proxy tab
 4. Click intercept on, then refresh the page on the browser
 5. Send the request to Burp Repeater.
-   <img width="609" height="537" alt="image" src="https://github.com/user-attachments/assets/8e428017-f42d-4d89-b0de-7692bd87e156" />
+  <div></div> <img width="609" height="537" alt="image" src="https://github.com/user-attachments/assets/8e428017-f42d-4d89-b0de-7692bd87e156" />
 
 7. Go to Repeater tab and change the "id" parameter to carlos.
 8. On the Response section, search for 'api key'.
