@@ -4,7 +4,7 @@
 1. On the Home lab page, Select the Live chat tab.
 2. Send any message
 
-   <img width="991" height="813" alt="image" src="https://github.com/user-attachments/assets/bbdb4c22-22ec-4da0-a380-98b6156143af" />
+   <img width="786" height="539" alt="image" src="https://github.com/user-attachments/assets/bbdb4c22-22ec-4da0-a380-98b6156143af" />
 
 3. Open Burp go to Proxy tab and click Intercept On
 4. On the browser, select View transcript.
