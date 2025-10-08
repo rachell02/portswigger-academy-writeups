@@ -1,4 +1,4 @@
-# owasp-juiceshop-writeups
+# portswigger-academy-writeups
 These are my personal and intentionally a bit dumb writeups in breaking portswigger academy labs, a free online training center for web application security.
 
 This is how I track my progress in learning web application penetration testing 
